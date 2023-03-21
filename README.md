@@ -1,5 +1,5 @@
 
-# Présentation de la fabrique
+# Présentation de la fabrique -
 
 Ce dépôt est utilisé comme modèle 1 au Carnet d'écriture dans le cadre du cours FRA3825 - Pratiques de l'édition numérique (hiver 2023 Université de Montréal). 
 
