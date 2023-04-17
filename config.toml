@@ -30,3 +30,4 @@ filename = "sitemap.xml"
 priority = 0.5
 [taxonomies]
 tag = "tags"
+title = "Mon carnet de critiques"
