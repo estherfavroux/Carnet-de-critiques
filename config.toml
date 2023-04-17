@@ -1,6 +1,7 @@
 disableFastRender = true
 theme = "roman"
 [frontmatter]
+title = "Mon carnet de critiques"
 date = [":filename", ":default"]
 [[menu.main]]
 identifier = "about"
@@ -30,4 +31,3 @@ filename = "sitemap.xml"
 priority = 0.5
 [taxonomies]
 tag = "tags"
-title = "Mon carnet de critiques"
