@@ -1,7 +1,6 @@
 disableFastRender = true
 theme = "roman"
 [frontmatter]
-title = "Mon carnet de critiques"
 date = [":filename", ":default"]
 [[menu.main]]
 identifier = "about"
