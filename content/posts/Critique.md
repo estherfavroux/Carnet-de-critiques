@@ -1,8 +1,6 @@
 ---
-title: Critique 2
-date: 2023-01-21
-weight:
-type:
+title:Critique 2
+date:2023-04-17
 ---
 
 Les mots entre mes mains

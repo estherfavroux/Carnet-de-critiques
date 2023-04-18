@@ -1,8 +1,6 @@
 ---
-title: Critique 3
-date: 2023-01-21
-weight:
-type:
+title:Critique 3
+date:2023-04-17
 ---
 
 
