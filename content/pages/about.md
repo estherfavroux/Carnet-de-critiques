@@ -1,5 +1,5 @@
 ---
-title= À propos
+title: "À propos"
 date= 2023-04-17
 weight= 50
 type= colophon
