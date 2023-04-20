@@ -1,1 +1,7 @@
-name = "roman"
+name: "roman"
+auteur: "Esther Favroux"
+edition: "Fabrique"
+logo: "images/logo.jpg"
+soustitre: "Critiques littéraires et cinématographiques"
+titre: "Mon carnet de critiques"
+chapitre: "oui"

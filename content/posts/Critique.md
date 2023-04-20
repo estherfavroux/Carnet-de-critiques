@@ -3,7 +3,6 @@ title: "Critique 2"
 date: "2023-04-17"
 auteur: "Esther Favroux"
 chapitre: "oui"
-
 ---
 
 ## Critique 1
