@@ -7,9 +7,9 @@ weight: "1"
 impression: "oui"
 ---
 
-## Critique 1
+# Critique 1
 
-# Les mots entre mes mains de Guinevere Glasfurd-Brown
+## Les mots entre mes mains de Guinevere Glasfurd-Brown
 
 >Un encouragement, une rencontre fortuite, une conversation – il y a tant de façons de mettre une existence en mouvement. - *Les Mots entre mes mains*, Guinevere Glasfurd-Brown
 
