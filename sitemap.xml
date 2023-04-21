@@ -31,6 +31,13 @@
   </url>
   
   <url>
+    <loc>/cr%C3%A9dits/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -39,13 +46,6 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/cr%C3%A9dits/</loc>
     <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -74,12 +74,6 @@
   
   <url>
     <loc>/print/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
