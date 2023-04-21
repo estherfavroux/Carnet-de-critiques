@@ -4,21 +4,63 @@
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/cr%C3%A9dits/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/critique/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/critique1/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/critique2/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/lecorpus/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/pages/</loc>
-    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,12 +80,6 @@
   
   <url>
     <loc>/post1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
