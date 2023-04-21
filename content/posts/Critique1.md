@@ -1,5 +1,5 @@
 ---
-title: "Critique 2"
+title: "Les Illusions Perdues"
 date: "2023-04-17"
 chapitre: "oui"
 auteur: "Esther Favroux"

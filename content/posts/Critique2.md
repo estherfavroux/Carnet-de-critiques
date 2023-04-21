@@ -1,5 +1,5 @@
 ---
-title: "Critique 3"
+title: "Le Chat Potté 2"
 date: "2023-04-17"
 chapitre: "oui"
 auteur: "Esther Favroux"

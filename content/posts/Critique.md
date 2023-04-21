@@ -1,5 +1,5 @@
 ---
-title: "Critique 2"
+title: "Les mots entre mes mains"
 date: "2023-04-17"
 auteur: "Esther Favroux"
 chapitre: "oui"
