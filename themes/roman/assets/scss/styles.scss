@@ -170,8 +170,8 @@ select {
 // variables
 $brand-color: #ffffff;
 $highlight: lighten($brand-color, 35%);
-$text-color: #9346cf72;
-$muted-text-color: #64644B;
+$text-color: #9446cf7e;
+$muted-text-color: #000000;
 $font-family: "EB Garamond",
 Garamond,
 "Times New Roman",
@@ -213,7 +213,7 @@ code.highlighter-rouge {
   // Comment
   .err {
     color: #a61717;
-    background-color: #e3d2d2
+    background-color: #6f10af
   }
 
   // Error
